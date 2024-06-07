@@ -1,0 +1,2 @@
+# Job-Finder
+Application demonstrating web development concepts using JavaScript, Node.js, Express, Sequelize, and database integration, implemented within a job search project.
